@@ -102,7 +102,7 @@ elif mode == 2:
 
 
     
-        print  (f"You did {guess_count } attempt out of 5")
+        print  (f"You did {guess_count } attempt out of 7")
         guess_count +=1
 
     
